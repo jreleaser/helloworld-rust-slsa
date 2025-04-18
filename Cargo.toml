@@ -1,6 +1,6 @@
 [package]
 name = "helloworld"
-version = "1.0.0-SNAPSHOT"
+version = "1.0.0"
 authors = ["Andres Almiray <aalmiray@yahoo.com>"]
 description = """
 HelloWorld in Rust
